@@ -1,9 +1,10 @@
 {
     "dimension": "overworld",
     "coordinates": [0, 99, -100],
-    "facing": "east",
+    "facing": "+x",
     "tilt": "down",
     "align": "center",
-    "blend": true,
+    "preserve_terrain": true,
+    "walkable": "partial",
     "theme": ["packed_ice", "stripped_cherry_log", "iron_block", "stripped_cherry_log", "packed_ice"]
 }
