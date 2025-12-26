@@ -1,0 +1,10 @@
+{
+    "dimension": "overworld",
+    "coordinates": [0, 99, 0],
+    "facing": "-z",
+    "tilt": "down",
+    "align": "center",
+    "preserve_terrain": true,
+    "walkable": "full",
+    "theme": ["waxed_cut_copper"]
+}
